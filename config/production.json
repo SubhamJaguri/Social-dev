@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://subhamjaguri:subhamjaguri@devconnector-xhsok.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtToken":"mysecrettoken",
+    "githubClientId":"a75b3b690a81a9d2c4a5",
+    "githubSecret":"d6e72bb81360820f36dca7614d2b9ddc48ac6f2a"
+}
